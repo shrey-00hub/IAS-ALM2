@@ -3,7 +3,7 @@
 **Author:** Sai Shrey
 **Roll Number:** [Add your roll number]
 
-*Adapted with permission from the original project.*
+*Original project by Trinadh Koundinya V; adapted with permission by Sai Shrey.*
 **Department:** CSE
 **Course:** Information Assurance and Security (ALM-2)
 
