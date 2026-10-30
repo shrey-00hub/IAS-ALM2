@@ -698,7 +698,7 @@ function App() {
         <h1>
           <Shield size={26} /> CryptoShield
         </h1>
-        <p className="subtitle">Cybersecurity learning suite — Sai Shrey (2420090121)</p>
+        <p className="subtitle">Cybersecurity learning suite — Sai Shrey ([Add your roll number])</p>
         <nav className="nav">
           {TABS.map((t) => (
             <Btn key={t.id} tone={tab === t.id ? "primary" : "ghost"} onClick={() => setTab(t.id)}>
